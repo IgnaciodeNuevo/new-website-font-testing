@@ -3,9 +3,16 @@
 // -----------------------------------------------------------------------------
 
 
-
 .nav {
+    background-color: $color-primary;
+    color: #fff;
     font-family: "DINNext-Bold", serif;
+    padding: 1rem;
+}
+
+section {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 

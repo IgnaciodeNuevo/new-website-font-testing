@@ -1,11 +1,52 @@
 //
 // Basic typography style for copy text
 //
-@import '../abstracts/variables.scss';
 
+html,
 body {
     color: $color-base;
     font-family: $font-family-base;
-    font-size: 100%;
-    line-height: 1.4;
+    font-size: 90%;
+
+    @media (min-width: 45em) {
+        font-size: 95%;
+    }
+
+    @media (min-width: 75em) {
+        font-size: 100%;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    // margin-bottom: 3rem;
+    // margin-top: 0;
+    // line-height: 3rem;
+    font-family: $font-family-heading;
+}
+
+h1 {
+    // font-size: 3.2382850718749987em;
+    // line-height: 6rem;
+    font-size: ms(12);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    // font-size: 2.815900062499999em;
+    font-size: ms(8);
+}
+
+p {
+    // margin-bottom: 3rem;
+    // font-size: 1.4em;
+    // line-height: 3rem;
+    font-size: ms(6);
 }

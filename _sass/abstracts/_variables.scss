@@ -17,9 +17,9 @@ $color-base-lighter: lighten($color-base, 80);
 $color-primary: #0047bb;
 
 // #State-Palette
-$state-ok:      #008022;
+$state-ok: #008022;
 $state-warning: #ffac00;
-$state-error:   #ff1e1e;
+$state-error: #ff1e1e;
 
 // #Text-Colors
 $text-color-base: $color-base-dark;
@@ -29,8 +29,6 @@ $text-color-link: $color-primary;
 $color-white: #ffffff;
 $color-black: #000000;
 
-
-
 //
 // #Box-Shadow
 //
@@ -39,17 +37,13 @@ $box-shaodw-2: 0 1px 2px rgba($color-base-dark, 0.5);
 $box-shaodw-3: 0 1px 2px rgba($color-base-light, 0.5);
 $box-shaodw-4: 0 1px 2px rgba($color-base-lighter, 0.5);
 
-
-
 //
 // #Animations
 //
-$animation-speed-slow:    0.35s;
+$animation-speed-slow: 0.35s;
 $animation-speed-regular: 0.25s;
-$animation-speed-fast:    0.15s;
-$animation-type:          easy-in;
-
-
+$animation-speed-fast: 0.15s;
+$animation-type: easy-in;
 
 //
 // #Fonts
@@ -57,44 +51,53 @@ $animation-type:          easy-in;
 
 // #Font-Family
 $font-family-base:
-  'Ciutadella-Regular',
-  -apple-system,
-  BlinkMacSystemFont,
-  "Segoe UI",
-  Roboto,
-  Helvetica,
-  Arial,
-  sans-serif,
-  "Apple Color Emoji",
-  "Segoe UI Emoji",
-  "Segoe UI Symbol";
+    'Ciutadella-Regular',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol';
+
+$font-family-heading:
+    'DINNext-Bold',
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol';
 
 //
 // $Font-Weight
 //
-$font-weight-thin:       100;
+$font-weight-thin: 100;
 $font-weight-extralight: 200;
-$font-weight-light:      300;
-$font-weight-normal:     400;
-$font-weight-medium:     500;
-$font-weight-semibold:   600;
-$font-weight-bold:       700;
-$font-weight-extrabold:  800;
-$font-weight-black:      900;
-
-
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$font-weight-extrabold: 800;
+$font-weight-black: 900;
 
 //
 // #Font-Size
 //
 $font-base: 1rem; // 16px
 
-
-
 //
 // #Sizing
 //
-$master-size:     0.5rem;
+$master-size: 0.5rem;
 $container-width: 50rem; // 800px
 $container-padding: 1.25rem; // 20px
 
@@ -134,14 +137,10 @@ $icon-xxl: $master-size * 4; // 32px
 $icon-xxxl: $master-size * 5; // 40px
 $icon-giant: $master-size * 6; // 48px
 
-
-
 //
 // #Scale
 //
 $scale: 1.61803;
-
-
 
 //
 // $Z-Index
