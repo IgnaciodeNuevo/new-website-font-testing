@@ -13,3 +13,20 @@ Do NOT steal the fonts if you see this, please this fonts are testing purpose on
 
 - [emtype ciutadella](https://emtype.net/fonts/ciutadella)
 - [LinoType DIN Next](https://www.linotype.com/517415/din-next-family.html)
+
+## Usage
+
+Install [Jekyll](https://jekyllrb.com/docs/installation/)
+
+Open Terminal and type:
+
+```
+https://github.com/IgnaciodeNuevo/new-website-font-testing.git
+
+cd new-website-font-testing
+
+jekyll build
+
+jekyll serve
+
+```
