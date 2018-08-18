@@ -6,36 +6,20 @@
 
 // 400 - https://emtype.net/fonts/ciutadella
 @font-face {
-    font-family: 'Ciutadella-Regular';
-    src: url('/assets/fonts/Ciutadella-Regular.woff') format('woff2'),
-        url('/assets/fonts/Ciutadella-Regular.woff2') format('woff');
+    font-family: 'CiutadellaRegular';
+    src: url('/assets/fonts/CiutadellaRegular.woff') format('woff2'),
+    url('/assets/fonts/CiutadellaRegular.woff2') format('woff');
     font-style: normal;
     font-weight: $font-weight-normal;
-}
-
-// 500 - https://emtype.net/fonts/ciutadella
-@font-face {
-    font-family: 'Ciutadella-Medium';
-    src: url('/assets/fonts/Ciutadella-Medium.woff') format('woff2'),
-        url('/assets/fonts/Ciutadella-Medium.woff2') format('woff');
-    font-style: normal;
-    font-weight: $font-weight-medium;
-}
-
-// 600 - https://emtype.net/fonts/ciutadella
-@font-face {
-    font-family: 'Ciutadella-SemiBold';
-    src: url('/assets/fonts/Ciutadella-SemiBold.woff') format('woff2'),
-        url('/assets/fonts/Ciutadella-SemiBold.woff2') format('woff');
-    font-style: normal;
-    font-weight: $font-weight-semibold;
+    font-display: swap;
 }
 
 // 700 - https://www.linotype.com/517415/din-next-family.html
 @font-face {
-    font-family: 'DINNext-Bold';
-    src: url('/assets/fonts/DINNext-Bold.woff') format('woff2'),
-        url('/assets/fonts/DINNext-Bold.woff2') format('woff');
+    font-family: 'DINNextBold';
+    src: url('/assets/fonts/DINNextBold.woff') format('woff2'),
+    url('/assets/fonts/DINNextBold.woff2') format('woff');
     font-style: normal;
     font-weight: $font-weight-bold;
+    font-display: swap;
 }
