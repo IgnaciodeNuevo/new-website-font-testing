@@ -51,7 +51,7 @@ layout: home
 </section>
 
 <section>
-    <h5>Heading h5</h5>
+    <h6>Heading h6</h6>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
