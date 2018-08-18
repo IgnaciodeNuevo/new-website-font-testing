@@ -1,0 +1,22 @@
+{
+  "name": "new-website-font-testing",
+  "version": "1.0.0",
+  "description": "This is a test for my new website. The purpose is to test online fonts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgnaciodeNuevo/new-website-font-testing.git"
+  },
+  "author": "Ignacio Villanueva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IgnaciodeNuevo/new-website-font-testing/issues"
+  },
+  "homepage": "https://github.com/IgnaciodeNuevo/new-website-font-testing#readme",
+  "dependencies": {
+    "fontfaceobserver": "^2.0.13"
+  }
+}
