@@ -424,8 +424,8 @@
 
 (function() {
     var htmlDocument = document.documentElement;
-    var ciutadellaRegular = new FontFaceObserver('Ciutadella-Regular');
-    var dinBold = new FontFaceObserver('DINNext-Bold');
+    var ciutadellaRegular = new FontFaceObserver('CiutadellaRegular');
+    var dinBold = new FontFaceObserver('DINNextBold');
 
     Promise.all([ciutadellaRegular.load(), dinBold.load()])
         .then(function() {
