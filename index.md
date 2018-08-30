@@ -19,41 +19,53 @@ layout: home
     <h1>Heading h1</h1>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
 </section>
 
 <section>
     <h2>Heading h2</h2>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
 </section>
 
 <section>
     <h3>Heading h3</h3>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
 </section>
 
 <section>
     <h4>Heading h4</h4>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
 </section>
 
 <section>
     <h5>Heading h5</h5>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</code>
 </section>
 
 <section>
     <h6>Heading h6</h6>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</p>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</codcode>
+    <br>
+    <code>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur libero atque doloremque ex repellat. Harum aspernatur eveniet est, dignissimos beatae architecto ad rerum saepe provident temporibus illum nesciunt voluptates voluptas.</codcode>
 </section>
 

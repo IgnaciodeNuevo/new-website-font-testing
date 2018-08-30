@@ -25,6 +25,11 @@ h6 {
     font-family: sans-serif;
 }
 
+code {
+    display: block;
+    font-family: monospace;
+}
+
 .fonts-loaded body,
 .fonts-loaded p {
     font-family: $font-family-base;
@@ -37,6 +42,10 @@ h6 {
 .fonts-loaded h5,
 .fonts-loaded h6 {
     font-family: $font-family-heading;
+}
+
+.fonts-loaded code {
+    font-family: $font-family-code;
 }
 
 h1 {

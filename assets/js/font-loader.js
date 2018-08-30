@@ -426,8 +426,9 @@
     var htmlDocument = document.documentElement;
     var ciutadellaRegular = new FontFaceObserver('CiutadellaRegular');
     var dinBold = new FontFaceObserver('DINNextBold');
+    var inputMono = new FontFaceObserver('InputMono');
 
-    Promise.all([ciutadellaRegular.load(), dinBold.load()])
+    Promise.all([ciutadellaRegular.load(), dinBold.load(), inputMono.load()])
         .then(function() {
             htmlDocument.classList.add('fonts-loaded');
             console.log('Fonts loaded');
